@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a data da independência do Brasil",
+        enunciado: "Qual a data da independência do Brasil?",
         alternativas: ["07 de Setembro","15 de Novembro","21 de Abril"]
     },
     {
